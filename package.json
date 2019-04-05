@@ -1,6 +1,6 @@
 {
-  "name": "react-recaptcha-v3",
-  "version": "1.1.0",
+  "name": "react-recaptcha-v3-md",
+  "version": "1.1.1",
   "description": "This library helps to integrate google recaptcha into your react project easily. ",
   "keywords": [
     "react",
@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codeep/react-recaptcha-v3.git"
+    "url": "git+https://github.com/MogilevichDmitry/react-recaptcha-v3.git"
   },
   "author": "Codeep",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeep/react-recaptcha-v3/issues"
+    "url": "https://github.com/MogilevichDmitry/react-recaptcha-v3/issues"
   },
-  "homepage": "https://github.com/codeep/react-recaptcha-v3#readme",
+  "homepage": "https://github.com/MogilevichDmitry/react-recaptcha-v3#readme",
   "peerDependencies": {
     "react": "^15.6.2 || ^16.x",
     "prop-types": "^15.6.2"
